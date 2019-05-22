@@ -1,0 +1,9 @@
+D:\C# Repositories\dice-rp-tests\DiceService\bin\Debug\netstandard2.0\DiceService.deps.json
+D:\C# Repositories\dice-rp-tests\DiceService\bin\Debug\netstandard2.0\DiceService.dll
+D:\C# Repositories\dice-rp-tests\DiceService\bin\Debug\netstandard2.0\DiceService.pdb
+D:\C# Repositories\dice-rp-tests\DiceService\obj\Debug\netstandard2.0\DiceService.csprojAssemblyReference.cache
+D:\C# Repositories\dice-rp-tests\DiceService\obj\Debug\netstandard2.0\DiceService.csproj.CoreCompileInputs.cache
+D:\C# Repositories\dice-rp-tests\DiceService\obj\Debug\netstandard2.0\DiceService.AssemblyInfoInputs.cache
+D:\C# Repositories\dice-rp-tests\DiceService\obj\Debug\netstandard2.0\DiceService.AssemblyInfo.cs
+D:\C# Repositories\dice-rp-tests\DiceService\obj\Debug\netstandard2.0\DiceService.dll
+D:\C# Repositories\dice-rp-tests\DiceService\obj\Debug\netstandard2.0\DiceService.pdb

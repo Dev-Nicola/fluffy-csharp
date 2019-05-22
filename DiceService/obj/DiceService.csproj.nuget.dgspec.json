@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C# Repositories\\dice-rp-tests\\DiceService\\DiceService.csproj": {}
+  },
+  "projects": {
+    "D:\\C# Repositories\\dice-rp-tests\\DiceService\\DiceService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Repositories\\dice-rp-tests\\DiceService\\DiceService.csproj",
+        "projectName": "DiceService",
+        "projectPath": "D:\\C# Repositories\\dice-rp-tests\\DiceService\\DiceService.csproj",
+        "packagesPath": "C:\\Users\\Nicola\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Repositories\\dice-rp-tests\\DiceService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
