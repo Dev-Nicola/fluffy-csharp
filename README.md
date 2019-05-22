@@ -6,5 +6,5 @@
 
 - Install the .NET SDK in https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install
 - Clone the folder from this repository
-- Go into the **dice-rp-tests** folder
+- Go into the **fluffy-csharp** folder
 - Run the following command to launch testing: **dotnet test**
