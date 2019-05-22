@@ -1,4 +1,4 @@
-# Cours TDD 
+# TDD Course
 
 *I chose to use C# to implement unit tests.*
 
